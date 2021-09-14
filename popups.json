@@ -1,0 +1,22 @@
+[{"setting":["Levels","Credit","Login","Reset"]},
+{"hint": ["1","2","3"]},
+{"skip level": ["Free", "Coins", "Hints"]},
+{"shop coins": [
+	{"price":"$ 6.99", "quantity": "2000"},
+	{"price":"$ 0.99", "quantity": "140"},
+	{"price":"$ 1.99", "quantity": "400"},
+	{"price":"$ 2.99", "quantity": "800"},
+	{"price":"$ 4.99", "quantity": "1500"},
+	{"price":"$ 2.99", "quantity": "No Ads"}
+]
+},
+{"shop hints": [
+	{"price":"$6.99", "quantity": "30"},
+	{"price":"120", "quantity": "1"},
+	{"price":"450", "quantity": "5"},
+	{"price":"850", "quantity": "10"},
+	{"price":"2000", "quantity": "29"},
+	{"price":"$ 0.99", "quantity": "No Ads"}
+]
+}
+]

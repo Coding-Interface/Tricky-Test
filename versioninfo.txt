@@ -1,0 +1,47 @@
+This is main File
+Integration 1 done..
+Kartik' file
+
+
+"key":"donor",
+         "question":"How did the do  or become door?",
+         "answer":"How did the door become door?",
+         "options":["Donor"],
+		 "hint":"Remove the N from the donor"
+         "key":"parrot",
+         "question":"How can   arrot become   arrot?",
+         "answer":"How can Parrot become Carrot?",
+         "options":["Donor"],
+		 "hint":"Remove the P and Add the C from the question"
+		 
+
+		 
+
+	
+		 
+		 
+		  "key":"ballsTriangle",
+         "question":"Make the triangle face down by moving 3 balls.",
+			 "answer":0 ,
+         "options":[],
+		 "hint":"graphics"
+		
+	
+		 
+	
+	  
+	
+		 
+		 
+	
+		
+		
+		 
+		 
+
+		 
+		
+		 
+
+		 
+		 

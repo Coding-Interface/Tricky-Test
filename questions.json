@@ -1,0 +1,684 @@
+{
+   "questions":[
+      {
+         "level":1,
+         "key":"scientists",
+         "question":"Two scientists walk into a bar. First asks for H₂O, the second asks for H₂O,too. Which Scientist dies?",
+         "answer":"2nd",
+         "options":[
+            "1st",
+            "2nd"
+         ],
+         "hint":"Both scientist asked for H₂O (Water). But bartender thought the second scientist asked for H₂O₂ (hydrogen peroxide), because he said H₂O,too"
+      },
+      {
+         "level":2,
+         "key":"correctNumber",
+         "question":"Replace the question mark with the correct number in the equations below. Find the pattern.",
+         "answer":"13",
+         "options":[
+            "13",
+            "1156",
+            "68"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":3,
+         "key":"fruit",
+         "question":"Tap the fruits, from smallest to biggest.",
+         "answer":"Apple, Watermelon",
+         "options":[
+            "Apple",
+            "Watermelon",
+            "Pumpkin"
+         ],
+         "hint":"Pumpkin is a vegetable and not a fruit"
+      },
+      {
+         "level":4,
+         "key":"tapOrder",
+         "question":"Tap in the following order",
+         "answer":"18, 11, 89, 3, 5, 92",
+         "options":[
+            "3",
+            "89",
+            "11",
+            "5",
+            "92",
+            "18"
+         ],
+         "hint":"Remember the correct sequence"
+      },
+      {
+         "level":5,
+         "key":"apples",
+         "question":"How many apples are there?",
+         "answer":"9",
+         "options":[
+
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":6,
+         "key":"mosquito",
+         "question":"Kill the mosquito and don't get bitten.",
+         "answer":"hold",
+         "options":[
+            ""
+         ],
+         "hint":"Place and hold the finger on the top, mosquito will slide and go there."
+      },
+      {
+         "level":7,
+         "key":"dragon",
+         "question":"How many dragons are there?",
+         "answer":12,
+         "options":[
+            10,
+            4,
+            6,
+            12
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":8,
+         "key":"bear",
+         "question":"Which Bear has ear?",
+         "answer":"B",
+         "options":[
+            "G",
+            "M",
+            "T",
+            "B",
+            "F",
+            "D"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":9,
+         "key":"panda",
+         "question":"Stop panda's tears",
+         "answer":"Turn your phone upside down",
+         "options":[
+            "event"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":10,
+         "key":"rabbit",
+         "question":"Find x.",
+         "answer":"14",
+         "options":[
+            "16",
+            "26",
+            "22",
+            "14"
+         ],
+         "hint":"(7+11+10)/2 = 14"
+      },
+      {
+         "level":11,
+         "key":"saveme",
+         "question":"Quick! Who will you save?",
+         "answer":"DragUpMultipleTouch",
+         "options":[
+            "Event"
+         ],
+         "hint":"Swipe up with both the fingers"
+      },
+      {
+         "level":12,
+         "key":"findZ",
+         "question":"Find Z",
+         "answer":"14",
+         "options":[
+            "14 = 92",
+            "19 = 45",
+            "18 = 61",
+            "17 = 57",
+            "92 = Z"
+         ],
+         "hint":"If 14 = 92,Then 92 = 14,So Z = 14"
+      },
+      {
+         "level":13,
+         "key":"3doors",
+         "question":"Somehow you end up in  a room which has three doors. Behind the first door , there is a deadly poisonous gas. Behind the second door, there are trained assassins with knives. Behind the third door, there are lions which have not eaten in years. Which door would you choose to open?",
+         "answer":"3rd",
+         "options":[
+            "1st",
+            "2nd",
+            "3rd"
+         ],
+         "hint":"You should open the door with the lions. If they have not eaten in years, they will be dead already."
+      },
+      {
+         "level":14,
+         "key":"baloon",
+         "question":"Which balloon is stronger than the rest?",
+         "answer":"",
+         "options":[
+            ""
+         ],
+         "hint":"Try touching the balloons to the pointed slider. The one which won't burst is stronger."
+      },
+      {
+         "level":15,
+         "key":"EricaTinaMark",
+         "question":"If Erica lives in America and Tina lives in Argentina, where does Mark live?",
+         "answer":"Denmark",
+         "options":[
+            "Denmark",
+            "Korea",
+            "Thailand",
+            "Japan"
+         ],
+         "hint":"Erica lives in Am-Erica. Tina lives in Argen-Tina. Therefore Mark lives in Den-Mark."
+      },
+      {
+         "level":16,
+         "key":"crossTheLetter",
+         "question":"Cross out 11 letters so that the remaining letters spell a single word.",
+         "answer":"ASINGLEWORD",
+         "options":[
+            "N",
+            "A",
+            "I",
+            "S",
+            "N",
+            "I",
+            "E",
+            "N",
+            "L",
+            "G",
+            "E",
+            "L",
+            "T",
+            "E",
+            "T",
+            "W",
+            "E",
+            "O",
+            "R",
+            "R",
+            "S",
+            "D"
+         ],
+         "hint":"ASINGLEWORD"
+      },
+      {
+         "level":17,
+         "key":"shirt",
+         "question":"How many holes are there in a T-Shirt?",
+         "answer":"8",
+         "options":[
+            "4",
+            "8",
+            "6",
+			"7"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":18,
+         "key":"sayCorrect",
+         "question":"What is correct to say?",
+         "answer":"tilt",
+         "options":[
+            "1. The yolk of the egg is white",
+            "2. The yolk of the egg are white",
+            "3. Neither, the yolk is yellow"
+         ],
+         "hint":"Tilt the phone to reveal the third option"
+      },
+      {
+         "level":19,
+         "key":"racePosition",
+         "question":"If you overtake the 4th person in a race, which position will you be in?",
+         "answer":"4th",
+         "options":[
+            "1st",
+            "3rd",
+            "2nd",
+            "4th"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":20,
+         "key":"baseballBats",
+         "question":"Remove 8 baseball bats to form 2 non-touching squares",
+         "answer":"",
+         "options":[
+            ""
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":21,
+         "key":"catch snail",
+         "question":"Catch 5 ",
+         "answer":"",
+         "options":[
+            ""
+         ],
+         "hint":"Check the direction of snail to be caught"
+      },
+      {
+         "level":22,
+         "key":"ketchup",
+         "question":"Can I have some ketchup?",
+         "answer":"upsidedown_shake",
+         "options":[
+            "event"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":23,
+         "key":"lowtohighNumber",
+         "question":"Tap number from low to high",
+         "answer":"-999, -78, 666, 25456",
+         "options":[
+            "2545",
+            "666",
+            "-78",
+            "-999"
+         ],
+         "hint":"Check all the numbers properly on the screen"
+      },
+      {
+         "level":24,
+         "key":"hippo",
+         "question":"Help me wake up the hippo! It's too heavy!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+         "hint":"Tap and hold hippo for few secs"
+      },
+      {
+         "level":25,
+         "key":"catdogFight",
+         "question":"Stop them from fighting",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":26,
+         "key":"microwave",
+         "question":"Where is my microwave?",
+         "answer":"zooming",
+         "options":[
+            ""
+         ],
+         "hint":"Pinch the wave image to small"
+      },
+      {
+         "level":27,
+         "key":"planet",
+         "question":"Which is farthest away from us?",
+         "answer":"Earth",
+         "options":[
+            "Earth",
+            "Pluto",
+            "Mars"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":28,
+         "key":"word",
+         "question":"Which word do you see here?",
+         "answer":"Attention",
+         "options":[
+            ""
+         ],
+         "hint":"ATTENTION"
+      },
+      {
+         "level":29,
+         "key":"legs",
+         "question":"How many legs do you see?",
+         "answer":"12",
+         "options":[
+            "6",
+            "13",
+            "12",
+            "7"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":30,
+         "key":"smilies",
+         "question":"Can you spot the different cat?",
+         "answer":"12",
+         "options":[
+            "6",
+            "13",
+            "12",
+            "7"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":31,
+         "key":"robots",
+         "question":"Can you find 2 similar robots?",
+         "answer":"1,9",
+         "options":[
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            1
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":32,
+         "key":"5Sons",
+         "question":"George’s father has 5 sons. You can see the names of 4 of them. What is the name of the fifth son?",
+         "answer":"4th",
+         "options":[
+            "GAGA",
+            "GEGE",
+            "GIGI",
+            "GOGO",
+            "George"
+         ],
+         "hint":"George is the fifth son"
+      },
+      {
+         "level":33,
+         "key":"findNumber",
+         "question":"Can you find the mistake?",
+         "answer":"",
+         "options":[
+            "1 = ONE = l",
+            "2 = TWO =2",
+            "3 = THREE = 3",
+            "4 = FOUR = 4",
+            "5 = FIVE = 5",
+            "6 = SIX = 6",
+            "7 = SEVEN = 7",
+            "8 = EIGHT = 8",
+            "9 = NINE = 9"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":34,
+         "key":"squares",
+         "question":"How many squares can you find?",
+         "answer":11,
+         "options":[
+            7,
+            8,
+            11,
+            9
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":35,
+         "key":"squareEquation",
+         "question":" Solve the equation",
+         "answer":"10   – 1 = 99",
+         "options":[
+            "Event"
+         ],
+         "hint":"10² - 1 = 99"
+      },
+      {
+         "level":36,
+         "key":"guessTheNumber",
+         "question":"Can you guess the number?",
+         "answer":648,
+         "options":[
+            648,
+            643,
+            848,
+            843
+         ],
+         "hint":"648"
+      },
+      {
+         "level":37,
+         "key":"biggestFool",
+         "question":"Who is the biggest fool?",
+         "answer":"4th",
+         "options":[
+            "1st Person",
+            "2nd Person",
+            "3rd Person",
+            "4th Person"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":38,
+         "key":"cars",
+         "question":"Which car would you remove?",
+         "answer":3,
+         "options":[
+            7
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":39,
+         "key":"waterTank",
+         "question":"Which tank will fill up first?",
+         "answer":"F",
+         "options":[
+            "F",
+            "G",
+            "K",
+            "C"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":40,
+         "key":"greenBall",
+         "question":"Where is the green ball?",
+         "answer":"no choice",
+         "options":[
+
+         ],
+         "hint":"When you combine blue and yellow colored balls, you will get green colored balls."
+      },
+      {
+         "level":41,
+         "key":"equation27",
+         "question":"4 + 5 x 5 – 2 = ?",
+         "answer":"27",
+         "options":[
+            "30",
+            "43",
+            "20",
+            "27"
+         ],
+         "hint":"4 + 25 – 2 = 27"
+      },
+      {
+         "level":42,
+         "key":"hiddenNumber",
+         "question":"What is hidden number?",
+         "answer":40,
+         "options":[
+            "5 - 15 - 25 - 40 - 100"
+         ],
+         "hint":"Number is hidden behind the stone."
+      },
+      {
+         "level":43,
+         "key":"blackSheep",
+         "question":"Where is the black sheep?",
+         "answer":2,
+         "options":[
+            1,
+            2,
+            3
+         ],
+         "hint":"Black sheep would be hiding behind white sheep"
+      },
+      {
+         "level":44,
+         "key":"rightCat",
+         "question":"Which cat is on right?",
+         "answer":"4",
+         "options":[
+            "1",
+            "2",
+            "3",
+            "4"
+         ],
+         "hint":"You need to check extremely right side."
+      },
+      {
+         "level":45,
+         "key":"missingLetters",
+         "question":"RQP, ONM, _, IHG, FED, find the missing letters",
+         "answer":"LKJ",
+         "options":[
+            "CDE",
+            "LKI",
+            "LKJ",
+            "BAC"
+         ],
+         "hint":"The series consists of letters in reverse alphabetical order. Therefore, the missing letters are LKJ."
+      },
+      {
+         "level":46,
+         "key":"missingLetterSeries",
+         "question":"What is the missing letter in the series, U, O, I, _, A?",
+         "answer":"E",
+         "options":[
+            "E",
+            "K",
+            "F",
+            "N"
+         ],
+         "hint":"The series contains vowels in reverse order, U, O, I, E, A."
+      },
+      {
+         "level":47,
+         "key":"thermometer",
+         "question":"A thermometer is to temperature as a compass is to ___________",
+         "answer":"Direction",
+         "options":[
+            "Pressure",
+            "Humidity",
+            "Direction",
+            "Needle"
+         ],
+         "hint":"A thermometer is to temperature as a compass is to direction"
+      },
+      {
+         "level":48,
+         "key":"pawCat",
+         "question":"Paw: Cat :: Hoof: ?",
+         "answer":"Horse",
+         "options":[
+            "Dog",
+            "Horse",
+            "Elephant",
+            "Lamb"
+         ],
+         "hint":"The foot of cat is known as paw, and the foot of a horse is known as a hoof."
+      },
+      {
+         "level":49,
+         "key":"wordBelongs",
+         "question":"Which word does not belong to others?",
+         "answer":"Petal",
+         "options":[
+            "Rose",
+            "Lotus",
+            "Marigold",
+            "Petal"
+         ],
+         "hint":"Rose, lotus, and marigold are different types of flowers and petal is a part of the flower."
+      },
+      {
+         "level":50,
+         "key":"peter",
+         "question":"Peter is in the East of Tom and Tom is in the North of John. Mike is in the South of John then in which direction of Peter is Mike?",
+         "answer":"South-West",
+         "options":[
+            "South-East",
+            "South-West",
+            "South",
+            "North-East"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":51,
+         "key":"logicalPuzzle",
+         "question":"Solve the Logical Puzzle?",
+         "answer":"4",
+         "options":[
+            "2",
+            "4",
+            "8",
+            "0"
+         ],
+         "hint":"4"
+      },
+      {
+         "level":52,
+         "key":"murder",
+         "question":"A man was murdered in his office.  The suspects are Ericson, Maggi, Jason, Patrick. A calendar found near the man has blood written 6, 4, 9, 10, 11.  Who is the killer?",
+         "answer":"Jason",
+         "options":[
+            "Maggi",
+            "Ericson",
+            "Jason",
+            "Patrick"
+         ],
+         "hint":"graphics"
+      },
+      {
+         "level":53,
+         "key":"movie",
+         "question":"A couple went to movie. They have 6 daughters and each daughter have 4 brothers and each brother have 2 babies. In total how many people went to the movie?",
+         "answer":"2",
+         "options":[
+            "40",
+            "20",
+            "2",
+            "36"
+         ],
+         "hint":"In the starting it is given that Couple went to the movie and No other went with them."
+      },
+      {
+         "level":54,
+         "key":"namecode",
+         "question":"What is My Name? If my mother is a mathematician and my father is a scientist. They gave a code to my name as 'Iron59'. Crack my name?",
+         "answer":"Felix",
+         "options":[
+            "Elix",
+            "Alex",
+            "Selix",
+            "Felix"
+         ],
+         "hint":"Father is a scientist, so he gave code 'Iron' whose chemical symbol is Fe. As mother is a mathematician she gave '59' which is called as Lix in Roman."
+      }
+   ]
+}
